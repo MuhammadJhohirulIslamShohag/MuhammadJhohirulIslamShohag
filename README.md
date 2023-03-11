@@ -1,5 +1,5 @@
 ### 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C7F7A0&background=00000007&center=true&vCenter=true&multiline=true&width=435&lines=This+Muhammad+Jhohirul+Islam+Shohag;I+hope+by+the+Al-Mighty+Allah(God)++you+are+Well+and+Healthy.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C7F7A0&background=00000007&center=true&vCenter=true&multiline=true&width=800&height=83&lines=This+Muhammad+Jhohirul+Islam+Shohag;I+hope+by+the+Al-Mighty+Allah(God)++you+are+Well+and+Healthy." alt="Typing SVG" /></a>
 
 
 <!--
