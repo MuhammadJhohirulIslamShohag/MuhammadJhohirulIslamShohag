@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/-React.js-000?logo=react&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&style=flat)
 ![Redux](https://img.shields.io/badge/-Redux.js-000?logo=redux&style=flat)
+![Testing Library](https://img.shields.io/badge/-ReactTestingLibrary-000?logo=testinglibrary&style=flat)
 ![React Hook Form](https://img.shields.io/badge/-ReactHookForm-000?logo=reacthookform&style=flat)
 ![React Router](https://img.shields.io/badge/-ReactRouter-000?logo=reactrouter&style=flat)
 ![React Query](https://img.shields.io/badge/-ReactQuery-000?logo=reactquery&style=flat)
@@ -42,6 +43,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white&style=flat)
+![Jest](https://img.shields.io/badge/-Jest-000?logo=jest&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&style=flat)
 ![Swagger](https://img.shields.io/badge/-Swagger-000?logo=swagger&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&style=flat)
