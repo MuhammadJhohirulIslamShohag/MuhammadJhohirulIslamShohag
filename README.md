@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C7F7A0&background=00000007&center=true&vCenter=true&multiline=true&width=850&height=83&lines=This+Muhammad+Jhohirul+Islam+Shohag;I+hope+by+the+Al-Mighty+Allah(God)++you+are+Well+and+Healthy." alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C7F7A0&background=00000007&center=true&vCenter=true&multiline=true&width=850&height=83&lines=This+is+Muhammad+Jhohirul+Islam+Shohag;By+the+Al-Mighty+Allah(God),+You+are+Well+and+Healthy!." alt="Typing Intro" /></a>
 
 ### 🌱 Language
 
@@ -47,7 +47,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&style=flat)
 ![Render](https://img.shields.io/badge/-Render-000?logo=render&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&style=flat)
-
+<br>
 <h2 align="center">🔭 Stats 🔭</h2>
 <br>
 <div align="center">
@@ -60,9 +60,13 @@
     <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShohagIslam&hide_border=true&text_color=000&icon_color=fff&background=0,ea6161,ffc64d,52fa51&theme=graywhite" /></td>
   </tr>
 </table>
-<div>
-
-</div>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">
+    <a  href="https://github.com/MuhammadShohagIslam?tab=repositories" title="Show Repository">🔭 Show More 🔭</a>
+</h3>
 
 <!--
 **MuhammadShohagIslam/MuhammadShohagIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
