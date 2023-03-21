@@ -53,12 +53,12 @@
 <h2 align="center">🔭 Stats 🔭</h2>
 <br>
 <div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadShohagIslam&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
+    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadShohagIslam&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
 </div>
 <br>
 <table align="center">
   <tr>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-stats.vercel.app/api?username=MuhammadShohagIslam&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21layout=compact&text_color=000&icon_color=fff&theme=graywhite"/> </td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadShohagIslam&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21layout=compact&text_color=000&icon_color=fff&theme=graywhite"/> </td>
     <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShohagIslam&hide_border=true&text_color=000&icon_color=fff&background=0,ea6161,ffc64d,52fa51&theme=graywhite" /></td>
   </tr>
 </table>
