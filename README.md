@@ -58,8 +58,8 @@
 <br>
 <table align="center">
   <tr>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadShohagIslam&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21layout=compact&text_color=000&icon_color=fff&theme=graywhite"/> </td>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShohagIslam&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadShohagIslam&count_private=true&hide_title=true&hide_border=true&show_icons=tru&text_color=000&icon_color=fff&theme=graywhite"/> </td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadShohagIslam&count_private=false&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
   </tr>
 </table>
 <br>
@@ -68,6 +68,7 @@
 <h3 align="center">
     <a  href="https://github.com/MuhammadShohagIslam?tab=repositories" title="Show Repositories">🔭 Show More 🔭</a>
 </h3>
+
 
 <!--
 **MuhammadShohagIslam/MuhammadShohagIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
