@@ -37,7 +37,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-000?logo=redis&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql&logoColor=white&style=flat)
 
 ### 🌱 Project Management
 
