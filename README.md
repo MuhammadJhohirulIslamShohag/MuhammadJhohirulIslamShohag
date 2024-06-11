@@ -27,10 +27,10 @@
 ![Express](https://img.shields.io/badge/-Express.js-000?logo=express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql&style=flat)
 ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-000?logo=apollographql&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazon-s3&logoColor=white&style=flat)
-![EC2](https://img.shields.io/badge/-EC2-232F3E?logo=amazon-ec2&logoColor=white&style=flat)
-![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?logo=amazon-cloudfront&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-000000?logo=amazon-aws&logoColor=white&style=flat)
+![S3](https://img.shields.io/badge/-S3-000000?logo=amazon-s3&logoColor=white&style=flat)
+![EC2](https://img.shields.io/badge/-EC2-000000?logo=amazon-ec2&logoColor=white&style=flat)
+![CloudFront](https://img.shields.io/badge/-CloudFront-000000?logo=amazon-cloudfront&logoColor=white&style=flat)
 
 ### 🌱 Database Technologies
 
