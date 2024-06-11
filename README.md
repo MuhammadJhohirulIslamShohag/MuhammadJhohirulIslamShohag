@@ -27,12 +27,17 @@
 ![Express](https://img.shields.io/badge/-Express.js-000?logo=express)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?logo=graphql&style=flat)
 ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-000?logo=apollographql&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazon-s3&logoColor=white&style=flat)
+![EC2](https://img.shields.io/badge/-EC2-232F3E?logo=amazon-ec2&logoColor=white&style=flat)
+![CloudFront](https://img.shields.io/badge/-CloudFront-232F3E?logo=amazon-cloudfront&logoColor=white&style=flat)
 
 ### 🌱 Database Technologies
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?logo=mysql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/-Redis-000?logo=redis&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 ### 🌱 Project Management
 
