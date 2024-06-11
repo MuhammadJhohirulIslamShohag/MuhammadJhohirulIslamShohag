@@ -4,6 +4,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typeScript&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=white&style=flat)
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL-000?logo=microsoftsqlserver&logoColor=white&style=flat)
 
 ### 🌱 Frontend Technologies
