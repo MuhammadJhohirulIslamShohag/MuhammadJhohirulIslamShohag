@@ -59,12 +59,12 @@
 <h2 align="center">🔭 Stats 🔭</h2>
 <br>
 <div align="center">
-    <img height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuhammadJhohirulIslamShohag&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJhohirulIslamShohag&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&theme=graywhite"/>     
 </div>
 <br>
 <table align="center">
   <tr>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadJhohirulIslamShohag&count_private=true&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=fff&theme=graywhite"/> </td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-stats.vercel.app/api?username=MuhammadJhohirulIslamShohag&count_private=true&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=fff&theme=graywhite"/> </td>
     <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadJhohirulIslamShohag&count_private=false&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
   </tr>
 </table>
