@@ -64,7 +64,7 @@
 <br>
 <table align="center">
   <tr>
-    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadJhohirulIslamShohag&count_private=true&hide_title=true&hide_border=true&show_icons=tru&text_color=000&icon_color=fff&theme=graywhite"/> </td>
+    <td valign="top"><img height="130px" align=top src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuhammadJhohirulIslamShohag&count_private=true&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=fff&theme=graywhite"/> </td>
     <td valign="top"><img height="130px" align=top src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadJhohirulIslamShohag&count_private=false&hide_border=true&text_color=000&icon_color=fff&theme=graywhite" /></td>
   </tr>
 </table>
